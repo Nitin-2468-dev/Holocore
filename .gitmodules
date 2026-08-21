@@ -1,0 +1,3 @@
+[submodule "HoloCore-farmware"]
+	path = HoloCore-farmware
+	url = https://github.com/Nitin-2468-dev/HoloCore-farmware.git
