@@ -47,7 +47,7 @@ lenticular sheet, and acrylic optical stack.
 
 I want to build this.
 
-![Concept](https://cdn.hackclub.com/019e2cc1-1fb9-767f-bb08-b036db4d9f16/Screenshot%202026-05-15%20181331.png)
+<img src="https://cdn.hackclub.com/019eeb73-149e-7e7b-a862-a1c68f8b2347/ezgif.com-coalesce.gif" alt="Project thumbnail" class="w-full h-full object-cover" data-v-ae87ac37="">
 
 And after some calculation:
 
