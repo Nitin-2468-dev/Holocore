@@ -5,7 +5,7 @@ Experimental light-field display software and hardware.
 HoloCore generates multi-view quilts from a 3D scene and sends them
 through a light-field shader to a lenticular display.
 
-![Controller](Images/controller.png)
+![Controller](Images/Controller.png)
 
 ## What I've built
 
@@ -20,7 +20,7 @@ through a light-field shader to a lenticular display.
 | Multi-monitor output | Done |
 | Custom UI system | Done |
 
-![Quilt](Images/quilt.png)
+![Quilt](Images/Quilt.png)
 
 ## Pipeline
 
@@ -91,6 +91,9 @@ HoloCore-farmware is the software/firmware implementation of
 uv sync
 uv run Core.py
 ```
+
+## If you want the strugles 
+[Macondo Project](https://macondo.hackclub.com/projects/952)
 
 ----
 
