@@ -5,6 +5,9 @@ Experimental light-field display software and hardware.
 HoloCore generates multi-view quilts from a 3D scene and sends them
 through a light-field shader to a lenticular display.
 
+
+[Video Demo](https://youtu.be/qHE5rNMxpnc)
+
 ![Controller](Images/Controller.png)
 
 ## What I've built
