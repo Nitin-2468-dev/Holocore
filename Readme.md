@@ -80,12 +80,14 @@ The CAD files are available on Onshape and in the repository.
 The current software implementation is developed in
 [HoloCore-farmware](https://github.com/Nitin-2468-dev/HoloCore-farmware).
 
-## Project
+## Releases
 
-HoloCore-farmware is the software/firmware implementation of
-[HoloCore](https://github.com/Nitin-2468-dev/HoloCore).
+| Platform | Download |
+|---|---|
+| Windows | [Latest release](https://github.com/Nitin-2468-dev/HoloCore-farmware/releases/latest) |
+| Linux | Coming soon |
 
-## Run
+## Run the sorce code
 
 ```bash
 uv sync
