@@ -5,7 +5,8 @@ Experimental light-field display software and hardware.
 HoloCore generates multi-view quilts from a 3D scene and sends them
 through a light-field shader to a lenticular display.
 
-![Controller](Images/Controller.png)
+*click on it*
+[![Controller](Images/Controller.png)](https://youtu.be/qHE5rNMxpnc)
 
 ## What I've built
 
@@ -53,13 +54,7 @@ And after some calculation:
 
 ![Calculations](https://cdn.hackclub.com/019e2cc1-7022-76f6-b8ab-749e2f066d06/Screenshot%202026-05-15%20182731.png)
 
-I started on the CAD:
-
-![CAD](https://cdn.hackclub.com/019e2cc2-2b59-72cc-909d-3f6e8645f5b7/Screenshot%202026-05-15%20214922.png)
-
-![CAD](https://cdn.hackclub.com/019e2cc2-5077-771a-818b-69048b805a7f/Screenshot%202026-05-15%20224108.png)
-
-And my "ahh moment":
+And "ahh moment":
 
 [Looking Glass — Light Field Display](https://www.youtube.com/watch?v=ImMIfI01zs8)
 
@@ -74,6 +69,21 @@ lenticular sheet.
 ![CAD](Images/cad.png)
 
 The CAD files are available on Onshape and in the repository.
+
+### (Bill of Materials)
+
+| Component                                            | Purpose                                           |   Qty. |                Cost | Distributor                                                                                                   |
+| ---------------------------------------------------- | ------------------------------------------------- | -----: | ------------------: | ------------------------------------------------------------------------------------------------------------- |
+| Waveshare 7" 1024×600 HDMI IPS Capacitive LCD        | Main display panel                                |      1 |     ₹4,389 / $48.28 | [Robu.in](https://robu.in/product/waveshare-7inch-1024x600-hdmi-ips-low-power-capacitive-lcd-c-touch-screen/) |
+| Print6D 50 LPI Lenticular Sheets (6"×4", pack of 10) | Optical lens layer for view separation            | 1 pack |       ₹990 / $10.89 | [Amazon.in](https://www.amazon.in/gp/product/B0D91RVKWT)                                                      |
+| 3D-printed parts                                     | Mechanical frame, mounts, and alignment parts     |      — |            ₹0 / $0* | Printing Legion India                                                                                         |
+| A4 Guillotine Paper Cutter                           | Cutting lenticular sheets and prototype materials |      1 |     ₹1,044 / $11.48 | [Amazon.in](https://www.amazon.in/Toners-Trimmer-Machine-Guillotine-Hand-held/dp/B0FBHK7YK9)                  |
+| **Total**                                            |                                                   |        | **₹6,423 / $70.65** |                                                                                                               |
+
+**Exchange rate:** approximately ₹91.0 = $1 USD, recorded on 21/08/2026.
+
+[**CSV file**](./holocore-BOM.csv)
+
 
 ## Software
 
